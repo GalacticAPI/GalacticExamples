@@ -1,8 +1,1 @@
-GalacticExamples is a Visual Studio 2013 solution that contains example projects that demonstrate various aspects of the Galactic API. It uses the SharedLibraries project as a central place to access Galactic API DLLs and access third-party libraries necessary for the project but not available via NuGet.
-
-This repository should generally be placed at the same level in the directory structure as the SharedLibraries project.
-
-For example:
-
-If you place the SharedLibraries project in: C:\Users\Username\Documents\Visual Studio 2013\Projects\SharedLibraries
-then this project should be placed in: C:\Users\Username\Documents\Visual Studio 2013\Projects\GalacticExamples
+GalacticExamples is a Visual Studio solution that contains example projects that demonstrate various aspects of the Galactic API.
